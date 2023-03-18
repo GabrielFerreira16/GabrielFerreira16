@@ -24,10 +24,9 @@
 
 <div>
 <a href="https://github.com/GabrieFerreira16">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?GabrielFerreira16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://GabrielFerreira16/GabrielFerreira16/blob/output/github-contribution-grid-snake.svg)
+
   
  
