@@ -2,9 +2,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerreira16&" alt="gabrielferreira16" /></p>
 - 👨‍💻 Aluno do P3 de Informática
+ 
 - 📞 Fale comigo , gabriel.monte07@aluno.ifce.edu.br
+
+
 - 📚 Estudante de java e javascript
-- Me segui ai chatin <a href="https://instagram.com/gabrielfe.16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+- <b> ME SEGUE AÍ CHATIN </b> <a href="https://instagram.com/gabrielfe.16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 >
 
@@ -25,3 +29,5 @@
 </div>
 
 ![Snake animation](https://GabrielFerreira16/GabrielFerreira16/blob/output/github-contribution-grid-snake.svg)
+  
+ 
