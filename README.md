@@ -1,10 +1,13 @@
-### Opa! sossegado meu bom? EU sou o Gabriel Ferreira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerreira16&" alt="gabrielferreira16" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=EAE+MY+CHAPAS,+MEU+NOME+É+Gabriel+Ferreira;Seja+Bem+Vindo(a)+ao+meu+GitHub+:%29)](https://git.io/typing-svg)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFerreira16&bg_color=000000&color=ffffff&line=c11515&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 👨‍💻 Aluno do P3 de Informática
  
 - 📞 Fale comigo , gabriel.monte07@aluno.ifce.edu.br
-
 
 - 📚 Estudante de java e javascript
 
@@ -27,6 +30,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
   
  
