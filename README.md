@@ -28,7 +28,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
