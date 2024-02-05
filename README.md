@@ -1,17 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=EAE+MY+CHAPAS,+MEU+NOME+É+Gabriel+Ferreira;Aluno+do+P4+de+Informática+👨‍💻;Seja+Bem+Vindo(a)+ao+meu+GitHub)](https://git.io/typing-svg)
+<h1 align="center"><b>Olá , meu nome é Gabriel Ferreira </b><img width="35"></h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)+ao+GitHub+Do+GB;Aluno+do+P5+de+Informática+👨‍💻)](https://git.io/typing-svg)
 
 
 
  
-- 📞 Fale comigo , gabriel.monte07@aluno.ifce.edu.br
+- 📞 Fale comigo
+  
+<a href="https://instagram.com/gabrielfe.16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:phfarias210120@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  domontegabrielferreira@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
 - 📚 Estudante de programação
 
-- <b> ME SEGUE AÍ CHATIN </b> <a href="https://instagram.com/gabrielfe.16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
->
 
 <div align="center">
 
