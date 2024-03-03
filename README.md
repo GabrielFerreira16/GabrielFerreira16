@@ -3,7 +3,7 @@
 <h1 align="center"><b>Olá , meu nome é Gabriel Ferreira </b><img width="35"></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)+ao+GitHub+Do+GB;Aluno+do+P5+de+Informática+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)+ao+Meu+GitHub;Aluno+do+P5+de+Informática+👨‍💻)](https://git.io/typing-svg)
 
 
 
