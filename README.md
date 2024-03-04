@@ -33,7 +33,7 @@
 <h1> Ferramentas que utilizo </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,eclipse,replit,figma,windows" />
+    <img src="https://skillicons.dev/icons?i=github,git,eclipse,replit,figma,windows,postman" />
   </a>
 </p>
 
