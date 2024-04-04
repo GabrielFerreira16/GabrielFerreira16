@@ -26,7 +26,7 @@
 <h1> Estudando no momento: </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,dart" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,dart,flutter" />
   </a>
 </p>
 
