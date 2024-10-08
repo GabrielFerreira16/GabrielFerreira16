@@ -19,21 +19,16 @@
 <h1> LINGUAGENS </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,swift,mongo" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,swift,html,nodejs,dart" />
   </a>
 </p>
 
-<h1> Estudando no momento: </h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,dart,flutter" />
-  </a>
-</p>
+  
 
-<h1> Ferramentas que utilizo </h1>
+<h1> Ferramentas </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,eclipse,replit,figma,windows,postman" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,replit,figma,windows,mongo" />
   </a>
 </p>
 
