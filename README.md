@@ -10,7 +10,7 @@
 <div align="center">
  <a href="https://github.com/GabrieFerreira16">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreira16&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=c10bb5&text_color=FFFFFF&bg_color=0d1117" alt="Gabriel Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFerreira16&bg_color=000000&color=c10bb5&line=86158e&point=ebebeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
