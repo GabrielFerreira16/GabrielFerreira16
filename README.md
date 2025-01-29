@@ -3,7 +3,7 @@
 <h1 align="center"><b> 👨‍💻 </b><img width="35"></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Ferreira;Aluno+do+P5+de+Informática;Seja+Bem+Vindo(a)+ao+Meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Ferreira;Seja+Bem+Vindo(a)+ao+Meu+GitHub)](https://git.io/typing-svg)
 
 
 
@@ -28,7 +28,7 @@
 <h1> Ferramentas </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,replit,figma,windows,mongo" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,figma,windows,mongo" />
   </a>
 </p>
 
