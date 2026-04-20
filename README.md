@@ -19,7 +19,7 @@
 <h1> LINGUAGENS </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,swift,html,nodejs,dart" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,dart,C" />
   </a>
 </p>
 
