@@ -5,17 +5,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Ferreira;Seja+Bem+Vindo(a)+ao+Meu+GitHub)](https://git.io/typing-svg)
 
+<div align="left">
+<h1> Sobre mim: </h1>
+<h3> - Sou acadêmico do curso de Ciência da Computação na Universidade Estadual do Ceará</h3>
+<h3> - Sou Formado em Tecnico em Informática pelo IFCE Campus Fortaleza</h3>
+<h3> - Experiência em desenvolvimento de projetos voltados para aplicações web, dispositivos movéis e back-end</h3>
+<h3> - Apaixonado por tecnologia e desenvolvimento de software, estou em constante aprendizado</h3>
 
 
-<div align="center">
- <!-- <a href="https://github.com/GabrieFerreira16">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreira16&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=c10bb5&text_color=FFFFFF&bg_color=0d1117" alt="Gabriel Ferreira github stats" />  -->
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-<div align="center">
+<div align="left">
 <h1> LINGUAGENS </h1>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,dart,c" />
   </a>
@@ -24,9 +24,9 @@
   
 
 <h1> Ferramentas </h1>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,figma,windows,mongo" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,figma" />
   </a>
 </p>
 
