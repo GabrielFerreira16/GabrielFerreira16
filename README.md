@@ -33,9 +33,6 @@
 <h2>Contatos</h2>
 
 <p>
-  <a href="https://www.instagram.com/_gabriellfe/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:domontegabrielferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
