@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Sobre Mim
 
 ```yaml
 > ROOT@DEV-CORE:~$ ./inicializar_perfil.sh
