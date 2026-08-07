@@ -1,44 +1,147 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel+Ferreira;Seja+bem-vindo(a)+ao+meu+GitHub" alt="Typing SVG" />
-</p>
+<!-- ===================== BANNER PRINCIPAL ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00fff2&height=280&section=header&text=Gabriel%20Ferreira&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Initializing%20Developer%20Profile...&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="https://github.com/GabrielFerreira16">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFF2&center=true&vCenter=true&width=650&height=60&duration=3000&lines=%3E+Seja+Bem-vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-<h2>Sobre mim</h2>
+<br/>
 
-<p>🎓 Acadêmico de <strong>Ciência da Computação</strong> na UECE</p>
-<p>📚 Formado em <strong>Técnico em Informática</strong> pelo IFCE (Instituto Federal do Ceará)</p>
-<p>💻 Experiência em aplicações web e back-end</p>
-<p>🚀 Apaixonado por tecnologia e em constante aprendizado</p>
-<p>🎯 Foco atual: Desenvolvimento de apps mobile</p>
+![Profile Views](https://komarev.com/ghpvc/?username=GabrielFerreira16&color=00fff2&style=flat-square&label=SYSTEM+VISITS)
+![GitHub followers](https://img.shields.io/github/followers/GabrielFerreira16?label=FOLLOWERS&style=flat-square&color=0f2027&labelColor=00fff2)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=flat-square&labelColor=0f2027)
 
----
+</div>
 
-<h2>Linguagens</h2>
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,dart,c" />
-</p>
+<!-- ===================== SOBRE MIM ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> `whoami`
 
-<h2>Ferramentas & IDEs</h2>
+```yaml
+> ROOT@DEV-CORE:~$ ./inicializar_perfil.sh
+────────────────────────────────────────────
+NOME:        Gabriel Ferreira
+CARGO:       Engenheiro de Software
+LOCALIZAÇÃO: Fortaleza, Ceará - BR
+FOCO ATUAL:  Desenvolvimento Back-end
+IDIOMAS:     [ PT-BR ] [ EN ]
+STATUS:      ████████████████████ 100% Disponível para novos projetos
+────────────────────────────────────────────
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,eclipse,mongo,sqlite" />
-</p>
+<div align="center">
 
----
+🧠 Apaixonado por Software e Programação
+🚀 Sempre explorando novas tecnologias e aprendendo.
 
-<h2>Contatos</h2>
+</div>
 
-<p>
-  <a href="mailto:domontegabrielferreira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-730452422/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/Vg3wsyxjrxPtPzWDW6/giphy.gif" width="30"/> Tech Stack
+
+<div align="center">
+
+### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=js,python,java,c,dart,nodejs,&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ===================== FERRAMENTAS ===================== -->
+## <img src="https://media.giphy.com/media/QLcCFtdnw2XS8/giphy.gif" width="30"/> Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mongo,eclipse&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJETOS ===================== -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Projetos em Destaque
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ [Nome do Projeto 1](https://github.com/GabrielFerreira16/projeto1)
+> Uma breve descrição futurista do que esse projeto resolve e por que ele importa.
+
+`React` `Node.js` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/projeto1)
+
+</td>
+<td width="50%">
+
+### 🤖 [Nome do Projeto 2](https://github.com/GabrielFerreira16/projeto2)
+> Sistema inteligente com foco em automação e performance em tempo real.
+
+`Python` `FastAPI` `Docker`
+
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/projeto2)
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
+## <img src="https://media.giphy.com/media/L59BE2c1nqzSzLpjfz/giphy.gif" width="30"/> Objetivos Atuais
+
+```bash
+```
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> System Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreira16&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&ring_color=00fff2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=GabrielFerreira16&theme=react&hide_border=true&background=0D1117&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFerreira16&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff&area=true&area_color=00fff2" />
+
+</div>
+
+<br/>
+
+<!-- ===================== REDES SOCIAIS ===================== -->
+## <img src="https://media.giphy.com/media/LMc20BnyDCApQNbYme/giphy.gif" width="30"/> Conecte-se Comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/seuusuario)
+[![Gmail](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:seuemail@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:203a43,100:0f2027&height=150&section=footer"/>
+
+</div>
