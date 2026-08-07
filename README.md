@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00fff2&height=280&section=header&text=Gabriel%20Ferreira&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Initializing%20Developer%20Profile...&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00fff2&height=280&section=header&text=Gabriel%20Ferreira&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=Inicializando%20Perfil%20de%20Desenvolvedor...&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/GabrielFerreira16">
@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GabrielFerreira16&color=00fff2&style=flat-square&label=SYSTEM+VISITS)
-![GitHub followers](https://img.shields.io/github/followers/GabrielFerreira16?label=FOLLOWERS&style=flat-square&color=0f2027&labelColor=00fff2)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=flat-square&labelColor=0f2027)
+![Profile Views](https://komarev.com/ghpvc/?username=GabrielFerreira16&color=00fff2&style=flat-square&label=VISITAS+AO+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/GabrielFerreira16?label=SEGUIDORES&style=flat-square&color=0f2027&labelColor=00fff2)
+![Status](https://img.shields.io/badge/STATUS-ATIVO-00fff2?style=flat-square&labelColor=0f2027)
 
 </div>
 
@@ -35,20 +35,23 @@ STATUS:      ████████████████████ 100% D
 
 <div align="center">
 
-🧠 Apaixonado por Software e Programação
-🚀 Sempre explorando novas tecnologias e aprendendo.
+🎓 Acadêmico de **Ciência da Computação** na UECE
+📚 Formado em **Técnico em Informática** pelo IFCE (Instituto Federal do Ceará)
+💻 Experiência em aplicações web e back-end
+🚀 Apaixonado por tecnologia e em constante aprendizado
+🎯 Foco atual: Desenvolvimento Back-end
 
 </div>
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## <img src="https://media.giphy.com/media/Vg3wsyxjrxPtPzWDW6/giphy.gif" width="30"/> Tech Stack
+<!-- ===================== STACK TECNOLÓGICA ===================== -->
+## <img src="https://media.giphy.com/media/Vg3wsyxjrxPtPzWDW6/giphy.gif" width="30"/> Stack Tecnológica
 
 <div align="center">
 
 ### 💻 Linguagens
-<img src="https://skillicons.dev/icons?i=js,python,java,c,dart,nodejs,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,dart,nodejs&theme=dark" />
 
 </div>
 
@@ -75,7 +78,7 @@ STATUS:      ████████████████████ 100% D
 <td width="50%">
 
 ### 🛰️ [Nome do Projeto 1](https://github.com/GabrielFerreira16/projeto1)
-> Uma breve descrição futurista do que esse projeto resolve e por que ele importa.
+> Uma breve descrição do que esse projeto resolve e por que ele importa.
 
 `React` `Node.js` `MongoDB`
 
@@ -85,7 +88,7 @@ STATUS:      ████████████████████ 100% D
 <td width="50%">
 
 ### 🤖 [Nome do Projeto 2](https://github.com/GabrielFerreira16/projeto2)
-> Sistema inteligente com foco em automação e performance em tempo real.
+> Sistema com foco em automação e performance em back-end.
 
 `Python` `FastAPI` `Docker`
 
@@ -104,12 +107,21 @@ STATUS:      ████████████████████ 100% D
 ## <img src="https://media.giphy.com/media/L59BE2c1nqzSzLpjfz/giphy.gif" width="30"/> Objetivos Atuais
 
 ```bash
+root@dev-core:~$ cat objetivos_2026.log
+
+[ >> ] Concluir a graduação em Ciência da Computação (UECE)
+[ >> ] Aprofundar conhecimento em Desenvolvimento Back-end
+[    ] Contribuir para projetos Open Source
+[    ] Construir um portfólio sólido de projetos práticos
+[    ] Buscar meu primeiro estágio/oportunidade na área
+
+> status: EM EXECUÇÃO...
 ```
 
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> System Analytics
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Estatísticas do Sistema
 
 <div align="center">
 
@@ -133,8 +145,8 @@ STATUS:      ████████████████████ 100% D
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/gabriel-ferreira-730452422)
+[![Gmail](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:domontegabrielferreira@gmail.com)
 
 </div>
 
