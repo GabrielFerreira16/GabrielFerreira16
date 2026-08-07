@@ -94,7 +94,7 @@ STATUS:      ████████████████████ 100% D
 ### 📚 [Library Management System](https://github.com/arthuralmeida1305/Library-Management-System)
 > Sistema de gerenciamento de biblioteca desenvolvido em C, projeto acadêmico de Programação e Algoritmos (UECE). Cadastro de livros, usuários, empréstimos e devoluções.
 
-`C` `GCC`
+`C` `VS CODE`
 
 [![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/arthuralmeida1305/Library-Management-System)
 
