@@ -81,8 +81,8 @@ STATUS:      ████████████████████ 100% D
 <tr>
 <td width="50%">
 
-### 🍎 [TeamUp](https://github.com/GabrielFerreira16/TeamUp)
-> App de organização e rotina pessoal desenvolvido durante a Apple Academy, unindo em um só lugar anotações, metas e controle de hábitos.
+### 📋 [TeamUp](https://github.com/GabrielFerreira16/TeamUp)
+> Prancheta digital de organização e rotina pessoal desenvolvida durante a Apple Academy, reunindo em um só lugar anotações, metas e controle de hábitos.
 
 `Swift` `Xcode`
 
@@ -91,12 +91,12 @@ STATUS:      ████████████████████ 100% D
 </td>
 <td width="50%">
 
-### 📚 [Library Management System](https://github.com/arthuralmeida1305/Library-Management-System)
+### 📚 [Library Management System](https://github.com/GabrielFerreira16/Library-Management-System)
 > Sistema de gerenciamento de biblioteca desenvolvido em C, projeto acadêmico de Programação e Algoritmos (UECE). Cadastro de livros, usuários, empréstimos e devoluções.
 
 `C` `VS CODE`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/arthuralmeida1305/Library-Management-System)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/Library-Management-System)
 
 </td>
 </tr>
