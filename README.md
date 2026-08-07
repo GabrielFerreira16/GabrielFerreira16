@@ -36,9 +36,13 @@ STATUS:      ████████████████████ 100% D
 <div align="center">
 
 🎓 Acadêmico de **Ciência da Computação** na UECE
+
 📚 Formado em **Técnico em Informática** pelo IFCE (Instituto Federal do Ceará)
+
 💻 Experiência em aplicações web e back-end
+
 🚀 Apaixonado por tecnologia e em constante aprendizado
+
 🎯 Foco atual: Desenvolvimento Back-end
 
 </div>
@@ -77,22 +81,22 @@ STATUS:      ████████████████████ 100% D
 <tr>
 <td width="50%">
 
-### 🛰️ [Nome do Projeto 1](https://github.com/GabrielFerreira16/projeto1)
-> Uma breve descrição do que esse projeto resolve e por que ele importa.
+### 🍎 [TeamUp](https://github.com/GabrielFerreira16/TeamUp)
+> App de organização e rotina pessoal desenvolvido durante a Apple Academy, unindo em um só lugar anotações, metas e controle de hábitos.
 
-`React` `Node.js` `MongoDB`
+`Swift` `Xcode`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/projeto1)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/TeamUp)
 
 </td>
 <td width="50%">
 
-### 🤖 [Nome do Projeto 2](https://github.com/GabrielFerreira16/projeto2)
-> Sistema com foco em automação e performance em back-end.
+### 📚 [Library Management System](https://github.com/arthuralmeida1305/Library-Management-System)
+> Sistema de gerenciamento de biblioteca desenvolvido em C, projeto acadêmico de Programação e Algoritmos (UECE). Cadastro de livros, usuários, empréstimos e devoluções.
 
-`Python` `FastAPI` `Docker`
+`C` `GCC`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/GabrielFerreira16/projeto2)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)](https://github.com/arthuralmeida1305/Library-Management-System)
 
 </td>
 </tr>
