@@ -111,8 +111,6 @@ root@dev-core:~$ cat objetivos_2026.log
 
 [ >> ] Concluir a graduação em Ciência da Computação (UECE)
 [ >> ] Aprofundar conhecimento em Desenvolvimento Back-end
-[    ] Contribuir para projetos Open Source
-[    ] Construir um portfólio sólido de projetos práticos
 [    ] Buscar meu primeiro estágio/oportunidade na área
 
 > status: EM EXECUÇÃO...
@@ -124,11 +122,6 @@ root@dev-core:~$ cat objetivos_2026.log
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Estatísticas do Sistema
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreira16&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&ring_color=00fff2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=GabrielFerreira16&theme=react&hide_border=true&background=0D1117&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2" />
 
