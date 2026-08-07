@@ -46,7 +46,7 @@ STATUS:      ████████████████████ 100% D
 <br/>
 
 <!-- ===================== STACK TECNOLÓGICA ===================== -->
-## <img src="https://media.giphy.com/media/Vg3wsyxjrxPtPzWDW6/giphy.gif" width="30"/> Stack Tecnológica
+## ⚙️ Stack Tecnológica
 
 <div align="center">
 
@@ -58,7 +58,7 @@ STATUS:      ████████████████████ 100% D
 <br/>
 
 <!-- ===================== FERRAMENTAS ===================== -->
-## <img src="https://media.giphy.com/media/QLcCFtdnw2XS8/giphy.gif" width="30"/> Ferramentas
+## 🛠️ Ferramentas
 
 <div align="center">
 
@@ -104,7 +104,7 @@ STATUS:      ████████████████████ 100% D
 <br/>
 
 <!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
-## <img src="https://media.giphy.com/media/L59BE2c1nqzSzLpjfz/giphy.gif" width="30"/> Objetivos Atuais
+## 🎯 Objetivos Atuais
 
 ```bash
 root@dev-core:~$ cat objetivos_2026.log
@@ -123,6 +123,11 @@ root@dev-core:~$ cat objetivos_2026.log
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreira16&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&ring_color=00fff2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreira16&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=GabrielFerreira16&theme=react&hide_border=true&background=0D1117&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2" />
 
 <br/>
@@ -138,8 +143,8 @@ root@dev-core:~$ cat objetivos_2026.log
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/gabriel-ferreira-730452422)
-[![Gmail](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:domontegabrielferreira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/seuusuario)
+[![Gmail](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:seuemail@gmail.com)
 
 </div>
 
