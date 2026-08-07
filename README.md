@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Sobre Mim
+## 🧑‍💻 Sobre Mim
 
 ```yaml
 > ROOT@DEV-CORE:~$ ./inicializar_perfil.sh
@@ -69,7 +69,7 @@ STATUS:      ████████████████████ 100% D
 <br/>
 
 <!-- ===================== PROJETOS ===================== -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -119,7 +119,7 @@ root@dev-core:~$ cat objetivos_2026.log
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Estatísticas do Sistema
+## 📊 Estatísticas do Sistema
 
 <div align="center">
 
@@ -139,7 +139,7 @@ root@dev-core:~$ cat objetivos_2026.log
 <br/>
 
 <!-- ===================== REDES SOCIAIS ===================== -->
-## <img src="https://media.giphy.com/media/LMc20BnyDCApQNbYme/giphy.gif" width="30"/> Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 <div align="center">
 
